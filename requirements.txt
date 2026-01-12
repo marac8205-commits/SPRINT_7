@@ -1,5 +1,5 @@
-- pandas
-- plotly_express
-- streamlit
-- yfinance
-- seaborn
+pandas
+plotly_express
+streamlit
+yfinance
+seaborn
