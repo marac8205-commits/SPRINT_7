@@ -1,4 +1,4 @@
-  SPRINT_7
+Web application for vehicle sales data analysis
 URL: https://sprint-7-4-wqeb.onrender.com/
 
 # vehicles-web-app
